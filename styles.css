@@ -144,7 +144,7 @@ body {
 .article-content img {
 	display: block;
     margin: 0 auto; /* Center-align the image horizontally */
-    max-width: 50%;
+    max-width: 90%;
     height: auto;
     border: 1px solid #ddd;
 	margin-bottom: -0.1em;
